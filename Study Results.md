@@ -14,6 +14,7 @@ Study Results
 
 3 - There is a positive correlation between the Tumor volume and the weight of the mice; the heavier the mice, the larger the tumor.
 
-![image](https://user-images.githubusercontent.com/77529968/119211776-c3940900-ba79-11eb-8c05-0e13ada86820.png)
+
+
 
 
